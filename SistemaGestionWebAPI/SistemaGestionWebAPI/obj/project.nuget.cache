@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xh0F4iiKoIN+DlvAJvnXa+qEKuHiPisXoxDYfIwDmL0cNB3d4jpdrDozSZqK/XUTSZIjwcg2VwuzctW5VeDMGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Emi\\Documents\\GitHub\\PreEntregaComision50285\\SistemaGestionWebAPI\\SistemaGestionWebAPI\\SistemaGestionWebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Emi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Emi\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Emi\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Emi\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Emi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Emi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
